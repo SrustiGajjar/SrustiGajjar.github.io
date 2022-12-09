@@ -1,2 +1,2 @@
-# Mayank-Modashiya.github.io
+SrustiGajjar.github.io
 Code for my portfolio site
